@@ -1,5 +1,5 @@
 # Omar Almaymouni
-Technically proficient data science student specializing in machine learning and language modeling. Proven ability to apply programming skills across multiple languages to solve complex problems. Eager to contribute knowledge and skills to a dynamic and forward-thinking organization where a passion for data-driven insights is valued.
+Technically proficient data scientist specializing in machine learning and language modeling. Proven ability to apply programming skills across multiple languages to solve complex problems. Eager to contribute knowledge and skills to a dynamic and forward-thinking organization where a passion for data-driven insights is valued.
 
 
 omar2000522@gmail.com
